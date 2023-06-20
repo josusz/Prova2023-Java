@@ -1,0 +1,1 @@
+INSERT INTO TBL_COMPANY (NAME, ACTIVE, CATEGORY, CONTACT) VALUES ('Raw Company', 'true', 'National', 'comercial@rawcompany.com');
